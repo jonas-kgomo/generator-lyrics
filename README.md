@@ -18,4 +18,3 @@ npm install
 npm run dev
 ```
 
-![img](preview.png)
